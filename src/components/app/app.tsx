@@ -6,7 +6,7 @@ import FavoritesPage from '../../pages/favorites-page/favorites-page';
 import OfferPage from '../../pages/offer-page/offer-page';
 import PageNotFound from '../../pages/404-page/404-page';
 import PrivateRoute from './private-route';
-import {Routings} from "../../environment";
+import {Routings} from '../../environment';
 
 type AppScreenProps = {
   favoritesCount: number;
